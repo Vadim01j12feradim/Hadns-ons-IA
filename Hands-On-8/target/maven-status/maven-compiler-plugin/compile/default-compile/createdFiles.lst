@@ -1,0 +1,10 @@
+Agents/AMutation.class
+Agents/ACrossover.class
+Ontology/Generation.class
+behaviours/CMutation.class
+behaviours/CCrossover.class
+Agents/index.class
+Agents/Valuate.class
+behaviours/CreateData.class
+behaviours/CevaluatePopulation.class
+Ontology/Parent.class
