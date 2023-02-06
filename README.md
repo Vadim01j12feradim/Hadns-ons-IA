@@ -1,6 +1,6 @@
 # Hadns-ons-IA
 
-#### Created by VADIM
+#### Created by IZMA
 
 
 #### I LOVE CIENCE :)
